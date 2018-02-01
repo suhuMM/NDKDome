@@ -10,3 +10,8 @@
 ### 2.查看方法签名
 ##### cd app\build\intermediates\classes\debug
 ##### javap -s com.lqm.ndkjnistudy.Hello
+
+## 注意事项
+### 1.创建类的对象时
+##### 构造函数默认方法名为：<init>
+##### 方法签名为：()V
