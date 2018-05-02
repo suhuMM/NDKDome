@@ -1,4 +1,4 @@
-
+﻿
 编译：
     cd app/src/main/java
     javah -encoding UTF-8 -d ../jni com.ndk.dome.Hello       //-d:生成目录  .. ：当前文件的上层文件夹
@@ -31,6 +31,8 @@ ABI: 应用程序二进制接口（Application Binary Interface） 定义了二�
 
 
 adb logcat :查看log信息
+
+test
 
 
 
